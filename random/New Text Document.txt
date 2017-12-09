@@ -1,0 +1,54 @@
+I am jessica, I live in Newyork. I am WP Theme Developer, UI/UX Developer, Internet Consultant.
+We are a professional Software comapny with the best talent and most modern technology for online solutions & focused on providing clients with effective online marketing solutions.
+
+We focused on providing clients with effective online marketing solutions.
+
+I know 4 languages. Working on this field for 5+ years and got many design awards.
+
+
+
+glyphicon glyphicon-book
+
+
+glyphicon glyphicon-briefcase
+
+
+glyphicon glyphicon-gift
+
+.top-header {
+    margin: 2em 0;
+    text-align: center;
+    position: fixed;
+    top: 50px;
+    background: rgba(255, 255, 255, 0.38);
+    width: 100%;
+    height: 70px;
+    z-index: 9999;
+}
+
+
+
+background color #fafafa!important
+
+
+
+font-color:#999;
+line-height: 1.8em;
+margin-top: 1em;
+
+
+<a href="#" class="btn-theme btn-theme-md btn-default-bg text-uppercase">Download my CV</a>
+
+
+
+
+
+element.style {
+    width: 100%;
+    background: white;
+    position: fixed;
+    z-index: 999;
+}
+
+
+
