@@ -182,7 +182,7 @@ label{
   background:#fff;
   border:2px solid #3598db;
 }
-.glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before,.glyphicon-user:before, .glyphicon-education:before, .glyphicon-book:before, .glyphicon-briefcase: before, .glyphicon-gift:before{
+.glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before,.glyphicon-user:before, .glyphicon-education:before, .glyphicon-book:before, .glyphicon-briefcase:before, .glyphicon-gift:before{
   color:#9F9F9F;
   font-size: 35px;
 }
@@ -662,7 +662,7 @@ padding:2em 0 0.5em 0;
 .icon-info p {
   font-size: 0.9em;
 }
-.glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before, .glyphicon-user:before, .glyphicon-education:before, .glyphicon-book:before,.glyphicon-briefcase: before, .glyphicon-gift:before {
+.glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before, .glyphicon-user:before, .glyphicon-education:before, .glyphicon-book:before,.glyphicon-briefcase:before, .glyphicon-gift:before {
   font-size: 27px;
 }
 .icon {
@@ -1136,7 +1136,7 @@ span.menu {
   font-size: 0.85em;
   margin-top: 1em;
 }
-.glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before, .glyphicon-user:before,.glyphicon-education:before , .glyphicon-book : before,.glyphicon-briefcase: before, .glyphicon-gift:before{
+.glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before, .glyphicon-user:before,.glyphicon-education:before , .glyphicon-book:before,.glyphicon-briefcase:before, .glyphicon-gift:before{
   font-size: 20px;
 }
 .icon {
