@@ -67,8 +67,8 @@ body{
 .logo img {
  display: inline-block;
  border-radius: 50%;
- height: 160px;
-  width: 160px;
+ height: 140px;
+  width: 140px;
 }
 
 
@@ -706,8 +706,8 @@ padding:2em 0 0.5em 0;
 
 .logo img {
   
-  height: 126px;
-  width: 126px;
+  height: 106px;
+  width: 106px;
 }
 
 
@@ -730,8 +730,8 @@ padding:2em 0 0.5em 0;
 }
 .logo img {
 
-  height: 126px;
-  width: 126px;
+  height: 106px;
+  width: 106px;
 }
 
 
@@ -839,13 +839,20 @@ padding:2em 0 0.5em 0;
 
 .logo img {
   
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width:80px;
 }
 
 
 .top-menu ul li:nth-child(3) {
   margin-right: 0;
+}
+}
+@media(max-width:664px){
+.icon {
+    width: 72px;
+    height: 71px;
+    padding: 20px 0px;
 }
 }
 @media(max-width:640px){
@@ -906,8 +913,8 @@ padding:2em 0 0.5em 0;
 
 .logo img {
   
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
 }
 
 
@@ -1001,6 +1008,20 @@ a.blogs {
   margin-right: 0;
 }
 }
+@media(max-width:556px){
+	.icon {
+    width: 69px;
+    height: 68px;
+    padding: 19px 0px;
+}
+}
+@media(max-width:484px){
+	.icon {
+		width: 100%;
+    height: 70px;
+    padding: 19px 0px;
+}
+	}
 @media(max-width:480px){
 span.menu {
   padding: 0.7em 0;
@@ -1015,8 +1036,8 @@ span.menu {
 
 .logo img{
   
-  height: 90px;
-  width: 90px;
+  height: 70px;
+  width: 70px;
 }
 
 .header {
